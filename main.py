@@ -10,6 +10,6 @@ temp = temp // 10
 
 
 if(num == sum):
-print("The number is ARMSTRONG Number")
+print("The number is Armstrong Number")
 else:
-print("The number is not ARMSTRONG Number")
+print("The number is not Armstrong Number")
