@@ -1,4 +1,4 @@
-num = int(input())
+num = int(input("Enter a number: "))
 
 order = len(str(num))
 sum = 0
@@ -10,6 +10,6 @@ temp = temp // 10
 
 
 if(num == sum):
-print("ARM")
+print("The number is ARMSTRONG Number")
 else:
-print("NOT ARM")
+print("The number is not ARMSTRONG Number")
